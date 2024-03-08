@@ -242,10 +242,10 @@
    Total 132 tests runs and passed in 7 test suites.
 
    Testing code src/test/redux
-   Testing server src/test/shared
+   Mocking server src/test/shared
 
    ```bash
-      $ npm test   # Testing reducers
+      $ npm test   # Testing reducers and related stuff 
    ```
    
    <a name="deployment"></a>

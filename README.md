@@ -36,8 +36,8 @@
    <a name="clone"></a>
    #### 1.Clone the project:
    ```bash
-   $ git clone https://github.com/Woongsik/fs17-Frontend-project.git
-   $ cd fs17-Frontend-project
+   $ git clone https://github.com/Woongsik/e-commerce.git
+   $ cd e-commerce
    ```
 
    <a name="install"></a>
